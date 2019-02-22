@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/neerajpadarthi/Neeraj/2nd Sem/python/Tutorial 5 Source Code/ClassificationCNN/Caltech100-3Category-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/Users/neerajpadarthi/Neeraj/2nd Sem/python/Tutorial 5 Source Code/ClassificationCNN/Caltech100-3Category-0.001-2conv-basic.model"
